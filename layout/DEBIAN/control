@@ -1,0 +1,14 @@
+Package: com.autopear.noquickactions
+Name: No Quick Actions
+Version: 1.0
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate (>= 0.9.6011), applist (>= 1.5.9), preferenceloader (>= 2.2.3-3)
+Architecture: iphoneos-arm
+Description: Disable Quick Actions popup.
+Author: Merlin
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lonelystars
+Tag: purpose::extension, role::enduser
+Icon: file:///System/Library/PrivateFrameworks/Preferences.framework/Motion.png
